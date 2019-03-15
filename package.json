@@ -1,0 +1,22 @@
+{
+  "name": "fifteenminutes",
+  "version": "0.0.1",
+  "description": "A kiosk app that prompts the user with questions and then records their video answers.",
+  "main": "global.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/andrewwatterson/fifteenminutes.git"
+  },
+  "author": "Andrew Watterson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewwatterson/fifteenminutes/issues"
+  },
+  "homepage": "https://github.com/andrewwatterson/fifteenminutes#readme",
+  "dependencies": {
+    "recordrtc": "^5.5.4"
+  }
+}
